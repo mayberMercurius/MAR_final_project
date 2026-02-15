@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="henri-julien" size="15.000000 11.127273" />
+    <ImageTarget name="gms_83_kandinskyw_a2_scan_ok_online" size="14.000000 10.237500" />
+    <ImageTarget name="43500-10" size="10.000000 10.000000" />
+  </Tracking>
+</QCARConfig>
